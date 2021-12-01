@@ -1,4 +1,4 @@
-
+Ôªø
 # AnkiCards-MathematicsDegree
 
 My collection of Anki Cards for subjects of the Mathematics Degree at University of Seville.
@@ -10,9 +10,14 @@ _Note_: the cards content is in Spanish.
 
 ## Contents
 
- - Departamento de ¡lgebra
-	- ¡lgebra Lineal y GeometrÌa II
-	- Estructuras Algebraicas
- - Departamento de EstadÌstica e InvestigaciÛn Operativa
-	- Elementos de probabilidad y estadÌstica
-	- TeorÌa de Probabilidad _(incomplete)_
+ 2.
+    - √Ålgebra Lineal y Geometr√≠a II
+ 	- Elementos de probabilidad y estad√≠stica
+	- Teor√≠a de Probabilidad (Temas 1-3)
+
+ 3.
+    - Estructuras Algebraicas
+    - Geometr√≠a Local de Curvas y Superficies (Temas 1-3)
+    - Funciones de Variable Compleja (Temas 2-3)
+    - Ampliaci√≥n de Ecuaciones Diferenciales (Temas 0-3)
+    - Programaci√≥n Matem√°tica
