@@ -19,5 +19,7 @@ _Note_: the cards content is in Spanish.
     - Estructuras Algebraicas
     - Geometría Local de Curvas y Superficies (Temas 1-3)
     - Funciones de Variable Compleja (Temas 2-3)
-    - Ampliación de Ecuaciones Diferenciales (Temas 0-3)
+    - Ampliación de Ecuaciones Diferenciales
     - Programación Matemática
+	- Geometría y Topología de Supeficies
+	- Teoría de Códigos y Criptografía
